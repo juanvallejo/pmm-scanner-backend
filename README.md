@@ -11,6 +11,11 @@ here: https://golang.org/
 mkdir -p bin && go build -o bin/scanner cmd/scanner.go
 ```
 
+## Contributing
+
+Please see the [contributing docs](https://github.com/pcse/pmm-scanner-backend/blob/master/CONTRIBUTING.md) for a breakdown of
+contributing guidelines and expectations.
+
 ## Contact
 
 Reach out via Slack: `cnulinuxusersgroup.slack.com`
