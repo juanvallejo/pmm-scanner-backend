@@ -1,3 +1,8 @@
+Archived
+========
+DO NOT USE. Archived to avoid confusion with actual production repo.
+If we ever revisit this effort for re-writing the pmm API server, we'll bring this back to life then.
+
 pmm-scanner-backend
 ===================
 
